@@ -1,2 +1,2 @@
 # PimaIndiansDiabetes
-Data Science (pre-interview phase) Task
+Data Science task on Pima Indians diabetes dataset
